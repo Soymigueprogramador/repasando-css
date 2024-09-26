@@ -1,0 +1,22 @@
+.fondo {
+    width: 500px;
+    height: 500px;
+    border: 3px solid #000;
+    background-image: url();
+}
+
+/* Tipos de background */
+/*
+    1- background-color:
+        Nos permite seleccionar un color de fondo.
+    2- background: linear-gradient(parametros);
+        Nos permite crear un degrade de colores.
+    3- background-image: url(ruta-de-la-imagen);
+        Nos permite poner una imagen de fondo
+    4- background-repite: repite, no-repite::after
+        Nos permite definir si el fondo se repite o no se repite
+    5- background-attachment: fixed
+        Nos permite indicar que el fondo quede quieto mientras el resto de los elementos se mueven.
+    6- background: propiedades-antes-mencionadas::after 
+        Nos permite poner varios valores dentro de una misma propiedad. 
+*/

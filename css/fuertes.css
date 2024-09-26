@@ -1,0 +1,22 @@
+.letras {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10vm;
+}
+
+/* Tipos de fuente para los textos. */
+/*
+    1- font-family:
+        En el caso de que no tengamos una paquete de fuentes externas vamos a tener que usar las predefinidas en nuestro sistema operativo.
+        Por lo general se deben poner 2 o 3 opciones por si la primer opcion no esta disponible. 
+*/
+
+/* Tipos de fuentes externas */
+/*
+    Pasos para usar fuentes de google fonts:
+    1- Buscar los paquetes de fuentes:    
+        Vamos a google fonts ' https://fonts.google.com/ '
+    2- Copiar el link para viculas la fuente con nuestro HTML.
+        Vamos a google fonts, seleccionamos el tipo de fuente, copiamos el link de dicha fuente y lo pegamos en la parte de abajo de nuestro HTML.
+    3- Seleccion del tipo de fuente:
+        font-family: fuentes seleccionadas;
+*/
